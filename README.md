@@ -11,3 +11,9 @@ the body has 3 parts, "About Me" with personal information and hobbies, "work" w
 I used what I learned this week to create the structure of the web and how to assign the images within and distribute them throughout the defined space.
 
 I took the liberty of modifying the information provided, such as images and texts to create something more in line with my personality.
+
+Deployed Link
+https://drkcm.github.io/Challenge-2/
+
+Repo Link
+https://github.com/DrkCM/Challenge-2
